@@ -1,0 +1,12 @@
+[submodule "neptus_msgs"]
+	path = neptus_msgs
+	url = https://github.com/paagutie/neptus_msgs.git
+[submodule "luma_msgs"]
+	path = luma_msgs
+	url = https://github.com/paagutie/luma_msgs.git
+[submodule "uuv_msgs"]
+	path = uuv_msgs
+	url = https://github.com/paagutie/uuv_msgs.git
+[submodule "dvl_msgs"]
+	path = dvl_msgs
+	url = https://github.com/paagutie/dvl_msgs.git
